@@ -14,13 +14,20 @@
 <br/>
 
 <div align="center">
-  <!-- Profile Views Badge -->
-  <img src="https://komarev.com/ghpvc/?RashinthaJerom=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="profile views" />
-  
-  <!-- Social Links -->
+  <!-- Profile Views Badge - මෙතන YOUR_GITHUB_USERNAME වෙනුවට ඔයාගේ username එක දාන්න -->
+  <img src="https://komarev.com/ghpvc/?username=RashinthaJerom&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="profile views" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/rashintha-jerom-508934294?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <!-- YouTube -->
+  <a href="https://youtube.com/@rashinthajerom4319?si=fsa_m2seLyL7QKBn">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <!-- Gmail -->
   <a href="mailto:rashintha.k2020@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -28,7 +35,7 @@
 
 <hr/>
 
-## 🌱 About Me
+## About Me
 
 - 🔭 I’m currently working on **AI integration & building intelligent systems**
 - 🌱 I’m currently pursuing **BSc (Hons) in Software Engineering at Birmingham City University**
@@ -87,11 +94,11 @@
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RashinthaJerom&theme=radical" alt="GitHub Streak" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashinthaJerom&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 <hr/>
