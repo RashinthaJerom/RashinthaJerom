@@ -39,54 +39,60 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 **Languages**
-<br>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
-
-<br><br>
+<p>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+</p>
 
 **Frameworks & Libraries**
-<br>
-<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white"/>
-
-<br><br>
+<p>
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</p>
 
 **Databases & Tools**
-<br>
-<img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/vscode-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black"/>
+<p>
+  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+  <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+</p>
 
-<br><br>
+**Design**
+<p>
+  <img src="https://img.shields.io/badge/lightroom-%2331A8FF.svg?style=for-the-badge&logo=adobe-lightroom&logoColor=white" alt="Lightroom"/>
+  <img src="https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+  <img src="https://img.shields.io/badge/picsart-%23FF007F.svg?style=for-the-badge&logo=picsart&logoColor=white" alt="Picsart"/>
+</p>
 
-**Design & Tech**
-<br>
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/canva-%2300C4CC.svg?style=flat-square&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/Live_Casting-%23000000.svg?style=flat-square&logo=youtube-gaming&logoColor=white"/>
-<img src="https://img.shields.io/badge/Audio_Video_Mixing-%238E44AD.svg?style=flat-square&logo=audacity&logoColor=white"/>
+**Technologies**
+<p>
+  <img src="https://img.shields.io/badge/Live_Casting-%23000000.svg?style=for-the-badge&logo=youtube-gaming&logoColor=white" alt="Live Casting"/>
+  <img src="https://img.shields.io/badge/Audio_Video_Mixing-%238E44AD.svg?style=for-the-badge&logo=audacity&logoColor=white" alt="Audio/Video Mixing"/>
+</p>
 
-</div>
-
----
+<hr/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RashinthaJerom&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RashinthaJerom&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashinthaJerom&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=RashinthaJerom&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RashinthaJerom&theme=radical" alt="GitHub Streak" />
+  <br/>
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashinthaJerom&layout=compact&theme=radical" alt="Top Languages" />
 </div>
-
 <br>
 
 <div align="center">
