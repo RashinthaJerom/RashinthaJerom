@@ -3,6 +3,8 @@
 <!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!%20👋&fontSize=50&fontAlignY=35" width="100%"/>
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Software+Engineering+%7C+Final+Year+%F0%9F%8E%93;Live+Broadcaster+%7C+Content+Creator+%F0%9F%8E%A5;UI%2FUX+Designer+%7C+Graphic+%7C+Video+Editor+%F0%9F%8E%A8;AI+Integration+%7C+Mobile+App+Development+%F0%9F%93%B1;Building+the+future+with+Code+%26+Creativity+%F0%9F%92%BB)
+
 # Hi, I'm Rashintha Jerom
 ### 🚀 Full-Stack Software Engineer | AI Enthusiast | Live Streamer
 
@@ -26,8 +28,6 @@
 
 </div>
 
----
-
 ## 👨‍💻 About Me
 - 🔭 **Working on:** AI integration & building intelligent systems
 - 🎓 **Education:** Pursuing BSc (Hons) in Software Engineering at Birmingham City University
@@ -35,7 +35,22 @@
 - 💬 **Ask me about:** Java, React Native, Web Development, & Live Casting
 - 📫 **Contact:** [rashintha.k2020@gmail.com](mailto:rashintha.k2020@gmail.com)
 
----
+<hr/>
+
+<div align="center">
+
+| 🚀 What I'm Up To | 🌾 Focus Areas |
+| :--- | :--- |
+| <ul><li>🎓 Pursuing <b>BSc (Hons) in Software Engineering</b></li><li>📡 <b>Live Broadcasting</b> & Digital Content Creation</li><li>🎨 Crafting polished <b>UI/UX, graphic work & video</b></li><li>🤖 Exploring <b>AI Integration</b> in software</li><li>💬 Ask me about <b>Java, React Native, Web Dev & UI/UX</b></li></ul> | <table><thead><tr><th>Domain</th><th>Tools</th></tr></thead><tbody><tr><td>🤖 AI & Tech</td><td>AI · Automation</td></tr><tr><td>📱 Mobile Dev</td><td>React Native · Java</td></tr><tr><td>🌐 Web Dev</td><td>TS · JS · React</td></tr><tr><td>🎨 Design</td><td>Figma · Adobe · UI/UX</td></tr><tr><td>🎥 Live Stream</td><td>OBS · XSplit · NVIDIA</td></tr></tbody></table> |
+</div>
+
+<div align="center">
+
+**"Building the future through Code, Creativity, and Innovation."**
+
+</div>
+
+<hr/>
 
 ## 🛠️ Tech Stack
 
