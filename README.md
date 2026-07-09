@@ -89,15 +89,18 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=RashinthaJerom&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-<br/>
-<div align="center">
+  <br/>
+  
+  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RashinthaJerom&theme=radical" alt="GitHub Streak" />
-</div>
-<br/>
-<div align="center">
+  <br/>
+  
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashinthaJerom&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
