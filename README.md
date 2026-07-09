@@ -46,7 +46,6 @@ contact:  Rashintha.k2020@gmail.com
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <!-- තව ඕන නම් මේ site එකෙන් badges හොයාගන්න පුළුවන්: https://github.com/Ileriayo/markdown-badges -->
 </p>
 
 **Frameworks & Libraries**
@@ -64,8 +63,6 @@ contact:  Rashintha.k2020@gmail.com
 <hr/>
 
 ## 📊 GitHub Stats
-
-යාළුවගේ profile එකේ වගේ stats පෙන්වන්න මේ links වල තියෙන **`?username=ඔයාගේ_USERNAME`** කියන තැනට ඔයාගේ ඇත්ත GitHub username එක දාන්න.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RashinthaJeom&show_icons=true&theme=radical" alt="GitHub Stats" />
